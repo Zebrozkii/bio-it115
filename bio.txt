@@ -1,3 +1,6 @@
-This is where my bio info will go later
-
- More info will go here.
+Hello, My name is Jimmy Zebroski.
+Im currently a student at Seattle Central Community College, where Im studying Software development.
+I recently moved to Downtowns Seattle to persue my passion for coding. I have a background in Software development.
+This was mostly gained from taking college courses at Everett Community College, and attending a Software Development
+boot camp called "Epicodus."
+Im still eager to learn more and eventually break into the tech market where I can bring my enthusiasm and fresh ideas to a quickly growing market.
